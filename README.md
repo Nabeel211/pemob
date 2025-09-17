@@ -1,6 +1,6 @@
 # Identitas
 Nama : Daan Nabil   
-NIM : H1D203100 
+NIM : H1D203100   
 Shift KRS : i  
 Shift Baru : F  
 

@@ -1,8 +1,8 @@
 # Identitas
 Nama : Daan Nabil   
-NIM : H1akwlakwl  
-Shift KRS : q  
+NIM : H1D203100 
+Shift KRS : i  
 Shift Baru : F  
 
 # Screenshot
-![Gambar 1](./SS.png)
+![Gambar 1](SS.png)
